@@ -12,7 +12,7 @@
 // @author      ayes-web
 // @description Userscript that redirects social media sites to privacy alternatives
 // @homepageURL https://github.com/ayes-web/social-media-redirect/
-// @downloadURL https://github.com/ayes-web/social-media-redirect/raw/master/social-media-redirect.user.js
+// @downloadURL https://github.com/ayes-web/Social-media-redirect/raw/main/social-media-redirect.user.js
 // @run-at document-start
 // ==/UserScript==
 
