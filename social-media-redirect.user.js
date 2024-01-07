@@ -9,11 +9,11 @@
 // @include     *://www.youtube.com/*
 // @include     *://reddit.com/*
 // @grant       none
-// @version     1.1
-// @author      ayes-web
+// @version     1.2
+// @author      BatteredBunny
 // @description Userscript that redirects social media sites to privacy alternatives
-// @homepageURL https://github.com/ayes-web/social-media-redirect/
-// @downloadURL https://github.com/ayes-web/Social-media-redirect/raw/main/social-media-redirect.user.js
+// @homepageURL https://github.com/BatteredBunny/social-media-redirect/
+// @downloadURL https://github.com/BatteredBunny/Social-media-redirect/raw/main/social-media-redirect.user.js
 // @run-at document-start
 // ==/UserScript==
 
